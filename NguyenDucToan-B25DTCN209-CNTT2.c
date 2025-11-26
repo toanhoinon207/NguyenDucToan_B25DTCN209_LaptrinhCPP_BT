@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 #define MAX 100
 
 struct Product{
@@ -397,4 +396,5 @@ void sortProduct(){
 		printf("+------------+------------------------------+------------+-------------------+------------------+\n");
 	}
 }
+
 
